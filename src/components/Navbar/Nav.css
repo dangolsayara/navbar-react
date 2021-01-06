@@ -1,0 +1,15 @@
+.NavbarItems{
+    background-color: rgb(48, 47, 47);
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.item{
+    text-decoration: none;
+}
+.navbar-logo{
+    color: white;
+    padding:2rem;
+}
